@@ -4,7 +4,7 @@
 
 <h2>About Me</h2>
 <p>My Name is Ben, a recent UC Berkeley graduate based in California. I have a strong passion for Data Science and Geographic Information Systems (GIS). In my free time, I write scripts using the Google Maps API for Geoguessr.
-I use my knowledge in GIS and Data Science to create maps and to learn about the geography of countries. This has helped me become globally ranked in Geoguessr -- top 300. It's a really great hobby I intend to pursue more.</p>
+I use my knowledge in GIS and Data Science to create maps and to learn about the geography of countries. This has helped me become globally ranked in Geoguessr -- top 300. </p>
 
 <h2>What You'll Find Here</h2>
 <p>Within this repository, you'll see various projects I completed during my attendance at the University of California, Berkeley. It covers a wide collection of my projects; you'll see projects in Java and Python.</p>
